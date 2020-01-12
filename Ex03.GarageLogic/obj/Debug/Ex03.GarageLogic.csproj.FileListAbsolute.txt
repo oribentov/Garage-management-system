@@ -1,0 +1,4 @@
+C:\Users\oribe_000\source\repos\B19 Ex03 Ori 311126304 Nimrod 311129555\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\oribe_000\source\repos\B19 Ex03 Ori 311126304 Nimrod 311129555\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\nimro\Desktop\study\semester_b\C#\B19 Ex03 OriBenTov 311126304 NimrodFeldman 311129555\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\nimro\Desktop\study\semester_b\C#\B19 Ex03 OriBenTov 311126304 NimrodFeldman 311129555\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
